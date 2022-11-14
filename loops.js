@@ -10,8 +10,12 @@
 
 // console.log(age);
 
-let num = Math.random();
+// let num = Math.random();
 
-for(i = 0; i < 6; i++) {
-    console.log(num)
-}
+// for(i = 0; i < 6; i++) {
+//     console.log(num)
+// }
+
+
+
+
